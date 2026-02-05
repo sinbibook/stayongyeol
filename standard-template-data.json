@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-02-05T02:06:41.985Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-02-05T02:07:23.710Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -556,7 +556,48 @@
             ]
           }
         ],
-        "facility": [],
+        "facility": [
+          {
+            "id": "17ea4364-0041-4783-8a76-5c3d2cabfe7b",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "fd45ccb7-bb4b-4026-8bdc-a96092a730ac",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
