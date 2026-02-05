@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-02-05T01:26:02.189Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-02-05T01:29:52.871Z",
     "templateType": "full_banner_accordion",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -190,7 +190,7 @@
     {
       "id": "5e79c31b-0d6c-403e-b682-59eca1ccafd8",
       "name": "A동(독채, 개별바베큐, 애견동반가능)",
-      "description": "",
+      "description": "독채 (방2+욕실2+거실1+주방1+개별테라스)",
       "roomInfo": "",
       "group": "A동(독채, 개별바베큐, 애견동반가능)",
       "size": 99.17,
@@ -244,7 +244,7 @@
     {
       "id": "0055a44d-a378-4da2-ab84-9a65ed49ead8",
       "name": "B동(독채, 개별바베큐)",
-      "description": "",
+      "description": "독채 (방2+욕실2+거실1+주방1+개별바베큐)",
       "roomInfo": "",
       "group": "B동(독채, 개별바베큐)",
       "size": 99.17,
