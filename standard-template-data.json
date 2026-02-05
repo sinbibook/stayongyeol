@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-02-05T07:12:04.894Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-02-05T07:13:58.826Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -421,17 +421,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "d2421753-ae89-4734-8e1c-eda8490bf4c9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-wk64avrqo6.jpg",
+                    "id": "4d391516-60a9-4aac-8973-f8a3c1dc229e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-ffg0p4auy0j.jpg",
                     "sortOrder": 1,
-                    "description": "단독독채",
+                    "description": "객실내부",
                     "isSelected": true
                   },
                   {
-                    "id": "4d391516-60a9-4aac-8973-f8a3c1dc229e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-ffg0p4auy0j.jpg",
+                    "id": "d2421753-ae89-4734-8e1c-eda8490bf4c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-wk64avrqo6.jpg",
                     "sortOrder": 2,
-                    "description": "객실내부",
+                    "description": "단독독채",
                     "isSelected": true
                   },
                   {
