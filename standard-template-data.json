@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-02-05T01:31:32.215Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-02-05T01:47:46.325Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -377,7 +377,7 @@
                 "description": "영흥도 바다를 따라 떠나는 작은 여행의 끝"
               },
               "essence": {
-                "title": "스테이온결 미리보기",
+                "title": "Still Stay On-Gyeol",
                 "images": [
                   {
                     "id": "0741d674-b99a-4d07-8abb-9793f0ef9a23",
@@ -404,7 +404,7 @@
                 "description": "반려견과 함께 머무는 단독 독채에서\n바베큐와 함께 여유로운 하루를 즐겨보세요."
               },
               "gallery": {
-                "title": "스테이온결 미리보기",
+                "title": "Preview",
                 "images": [
                   {
                     "id": "f26e49cd-c09f-47f3-bd9e-6ed9098df373",
@@ -441,7 +441,8 @@
                     "description": "바베큐장",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "영흥도 스테이온결에서 여유로운 하루를 천천히 즐겨보세요."
               },
               "signature": {
                 "title": "",
@@ -1211,6 +1212,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "37782c0a-9c6f-4e88-8d87-e356288e2930"
   }
 }
