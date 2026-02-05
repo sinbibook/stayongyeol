@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-02-05T01:29:52.871Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-02-05T01:30:50.216Z",
     "templateType": "full_banner_accordion",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -190,7 +190,7 @@
     {
       "id": "5e79c31b-0d6c-403e-b682-59eca1ccafd8",
       "name": "A동(독채, 개별바베큐, 애견동반가능)",
-      "description": "독채 (방2+욕실2+거실1+주방1+개별테라스)",
+      "description": "독채 (방2+욕실2+거실1+주방1+개별바베큐)",
       "roomInfo": "",
       "group": "A동(독채, 개별바베큐, 애견동반가능)",
       "size": 99.17,
@@ -407,17 +407,17 @@
                 "title": "스테이온결 미리보기",
                 "images": [
                   {
-                    "id": "d2421753-ae89-4734-8e1c-eda8490bf4c9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-wk64avrqo6.jpg",
+                    "id": "f26e49cd-c09f-47f3-bd9e-6ed9098df373",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469351-vx1ilrwg8ws.jpg",
                     "sortOrder": 0,
-                    "description": "단독독채",
+                    "description": "야외테라스",
                     "isSelected": true
                   },
                   {
-                    "id": "07300e51-8022-4178-8264-b2594ee89e69",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-h8czftj5u3t.jpg",
+                    "id": "d2421753-ae89-4734-8e1c-eda8490bf4c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-wk64avrqo6.jpg",
                     "sortOrder": 1,
-                    "description": "애견동반",
+                    "description": "단독독채",
                     "isSelected": true
                   },
                   {
@@ -428,17 +428,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "952af3d0-90c2-4e94-8c67-6bb3e28b32df",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-ll0a32smuz9.jpg",
+                    "id": "07300e51-8022-4178-8264-b2594ee89e69",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-h8czftj5u3t.jpg",
                     "sortOrder": 3,
-                    "description": "바베큐장",
+                    "description": "애견동반",
                     "isSelected": true
                   },
                   {
-                    "id": "f26e49cd-c09f-47f3-bd9e-6ed9098df373",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469351-vx1ilrwg8ws.jpg",
+                    "id": "952af3d0-90c2-4e94-8c67-6bb3e28b32df",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-ll0a32smuz9.jpg",
                     "sortOrder": 4,
-                    "description": "야외테라스",
+                    "description": "바베큐장",
                     "isSelected": true
                   }
                 ]
