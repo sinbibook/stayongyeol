@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-02-05T00:45:55.901Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-02-05T01:21:23.519Z",
     "templateType": "full_banner_accordion",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -298,7 +298,7 @@
   ],
   "homepage": {
     "domain": "stayongyeol.kr",
-    "templateType": "full_banner_accordion",
+    "templateType": "full_banner_wipe",
     "images": [
       {
         "logo": []
@@ -364,24 +364,84 @@
                 "description": " "
               },
               "closing": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "a971681e-c456-4294-bbd0-7beabd9e2285",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_closing/1770254375718-rgj98cy2xq.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "영흥도 바다를 따라 떠나는 작은 여행의 끝"
               },
               "essence": {
                 "title": "스테이온결 미리보기",
                 "images": [
                   {
-                    "id": "9d4fdfa2-ffbf-44c4-b48d-91b76d501479",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_essence/1770251953655-qx8js9088b.jpg",
+                    "id": "0741d674-b99a-4d07-8abb-9793f0ef9a23",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_essence/1770253314574-1c0yikihm28.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
+                  },
+                  {
+                    "id": "5bb6866b-5f7e-4b9a-a9a4-41c62266d8e9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_essence/1770253314575-o22qkdb385q.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "63a7d814-d77e-448d-a827-f4ce157d7444",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_essence/1770253314575-azkv0imssxi.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
                   }
-                ]
+                ],
+                "description": "반려견과 함께 머무는 단독 독채에서\n바베큐와 함께 여유로운 하루를 즐겨보세요."
               },
               "gallery": {
                 "title": "스테이온결 미리보기",
-                "images": []
+                "images": [
+                  {
+                    "id": "d2421753-ae89-4734-8e1c-eda8490bf4c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-wk64avrqo6.jpg",
+                    "sortOrder": 0,
+                    "description": "단독독채",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "07300e51-8022-4178-8264-b2594ee89e69",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-h8czftj5u3t.jpg",
+                    "sortOrder": 1,
+                    "description": "애견동반",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4d391516-60a9-4aac-8973-f8a3c1dc229e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-ffg0p4auy0j.jpg",
+                    "sortOrder": 2,
+                    "description": "객실내부",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "952af3d0-90c2-4e94-8c67-6bb3e28b32df",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469350-ll0a32smuz9.jpg",
+                    "sortOrder": 3,
+                    "description": "바베큐장",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f26e49cd-c09f-47f3-bd9e-6ed9098df373",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/index_gallery/1770254469351-vx1ilrwg8ws.jpg",
+                    "sortOrder": 4,
+                    "description": "야외테라스",
+                    "isSelected": true
+                  }
+                ]
               },
               "signature": {
                 "title": "",
@@ -505,14 +565,17 @@
             "family": "GyeonggiMillenniumBackground"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F0F2F4",
+          "secondary": "#3C4F5D"
+        }
       },
       "property": {
         "images": [
           {
             "id": "4babce2c-6e6e-48dc-a7a5-8cf6b6de06d4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/property_thumbnail/1770252083388-k5g5x2jwawq.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_thumbnail"
@@ -520,7 +583,7 @@
           {
             "id": "88c67360-e8ff-47fe-ac09-f305d39522f2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/property_exterior/1770252083389-jesek5w2jkc.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -528,7 +591,7 @@
           {
             "id": "d65816f2-2500-47cd-b61c-82514ddb717d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/property_exterior/1770252083389-5qj654pdccr.jpg",
-            "sortOrder": 2,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
