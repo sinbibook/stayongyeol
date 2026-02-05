@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-02-05T00:41:50.338Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-02-05T00:45:55.901Z",
     "templateType": "full_banner_accordion",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -108,7 +108,22 @@
         "description": "애견동반이 가능합니다 !  ",
         "usageGuide": "- 이용 객실: A동\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n※ 애견 비품은 개별지참 하셔야 합니다. \n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.",
         "displayOrder": 84,
-        "images": []
+        "images": [
+          {
+            "id": "d14d7dae-de47-4f66-8674-c5f5445826a4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1770252320339-xfr2hid3b6.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5cf4a2fc-b972-4b7c-876d-ba5337680547",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fd45ccb7-bb4b-4026-8bdc-a96092a730ac/main/1770252320339-54hogn12vq6.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
