@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-02-06T02:22:36.254Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-02-06T06:49:21.540Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
@@ -305,9 +305,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "영흥도 정원 스테이",
+      "description": "자연을 품은 신축 펜션, 영흥도 정원스테이",
+      "keywords": "영흥도정원스테이,영흥도펜션,신축펜션,정원감성,힐링숙소,감성숙소 "
     },
     "socialLinks": {},
     "customFields": {
@@ -1280,6 +1280,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "37782c0a-9c6f-4e88-8d87-e356288e2930"
   }
 }
