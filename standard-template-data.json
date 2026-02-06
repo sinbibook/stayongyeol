@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-02-05T08:28:21.054Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-02-06T02:22:06.256Z",
     "templateType": "full_banner_wipe",
     "propertyId": "58063d69-76aa-4d46-bf48-0198b31cd587",
     "homepageId": "37782c0a-9c6f-4e88-8d87-e356288e2930"
   },
   "property": {
     "id": "58063d69-76aa-4d46-bf48-0198b31cd587",
-    "name": "영흥도 스테이온결",
+    "name": "영흥도 정원 스테이",
     "description": "",
     "subtitle": "",
     "address": "인천광역시 옹진군 영흥면 영흥북로 273",
@@ -40,9 +40,9 @@
     ],
     "businessInfo": {
       "businessName": "만드는중",
-      "businessNumber": "만드는중",
-      "representativeName": "만드는중",
-      "businessAddress": "만드는중",
+      "businessNumber": "123-45-67890",
+      "representativeName": "한명숙",
+      "businessAddress": "인천 옹진군 영흥면 영흥북로 273",
       "businessPhone": "010-2479-7661",
       "businessEmail": "0000@naver.com",
       "businessType": "individual",
@@ -181,9 +181,9 @@
         "commonArea": []
       }
     ],
-    "nameEn": "Yeongheungdo Stay On-Gyeol",
+    "nameEn": "Yeongheungdo Jeongwon Stay",
     "domain": "stayongyeol.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "10889",
     "ybsId": ""
   },
   "rooms": [
@@ -191,7 +191,7 @@
       "id": "5e79c31b-0d6c-403e-b682-59eca1ccafd8",
       "name": "A동(독채, 개별바베큐, 애견동반가능)",
       "description": "독채형, 거실1+침대룸(퀸1)+침대룸(퀸2)+주방1+화장실2",
-      "roomInfo": "",
+      "roomInfo": "[애견동반 가능]\n- 이용 객실: A동\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n※ 애견 비품은 개별지참 하셔야 합니다. \n※ 사람 또는 반려견에게 심한 공격성을 보이거나 공격한 반려견은 입실 불가합니다.",
       "group": "A동(독채, 개별바베큐, 애견동반가능)",
       "size": 99.17,
       "baseOccupancy": 4,
@@ -245,7 +245,7 @@
       "id": "0055a44d-a378-4da2-ab84-9a65ed49ead8",
       "name": "B동(독채, 개별바베큐)",
       "description": "독채형, 거실1+침대룸(퀸1)+침대룸(퀸2)+주방1+화장실2",
-      "roomInfo": "",
+      "roomInfo": "애견동반 불가 객실",
       "group": "B동(독채, 개별바베큐)",
       "size": 99.17,
       "baseOccupancy": 4,
@@ -316,7 +316,7 @@
           "sections": [
             {
               "hero": {
-                "title": "영흥도 스테이온결",
+                "title": "영흥도 정원스테이",
                 "images": [
                   {
                     "id": "564a5c51-c0c3-4899-bb41-fd5c08464c3a",
@@ -456,7 +456,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "영흥도 스테이온결에서 여유로운 하루를 천천히 즐겨보세요."
+                "description": "영흥도 정원스테이에서 여유로운 하루를 천천히 즐겨보세요."
               },
               "signature": {
                 "title": "",
@@ -501,7 +501,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "바다를 머금은 영흥도에서의 조용한 하루,\n두 개의 독채로 구성된 스테이온결.\n단독 공간의 편안함을 살린 구조로\n여유로운 머무름을 제공합니다.\n머무는 시간 내내 편안함이 이어지고,\n자연이 느껴지는 야외 공간에서는\n바베큐와 함께 여행의 즐거움을 나누며,\n느긋한 시간 속에서 하루를 천천히 채워갑니다.\n자연과 쉼이 조화를 이루는 공간에서\n영흥도 스테이온결의 진짜 휴식을 만나보세요."
+                "description": "바다를 머금은 영흥도에서의 조용한 하루,\n두 개의 독채로 구성된 정원스테이.\n단독 공간의 편안함을 살린 구조로\n여유로운 머무름을 제공합니다.\n머무는 시간 내내 편안함이 이어지고,\n자연이 느껴지는 야외 공간에서는\n바베큐와 함께 여행의 즐거움을 나누며,\n느긋한 시간 속에서 하루를 천천히 채워갑니다.\n자연과 쉼이 조화를 이루는 공간에서\n영흥도 정원스테이의 진짜 휴식을 만나보세요."
               },
               "about": [
                 {
@@ -778,8 +778,8 @@
           "id": "5e79c31b-0d6c-403e-b682-59eca1ccafd8",
           "images": [
             {
-              "id": "44319aa9-fdcc-4a81-925e-4e9d26afa7da",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/roomtype_thumbnail/1770172326933-mdr5xc8ppoj.jpg",
+              "id": "8b7f62b2-d945-4086-be78-946aecb9723e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/37782c0a-9c6f-4e88-8d87-e356288e2930/roomtype_thumbnail/1770281778734-w31ry6rb0kl.jpg",
               "sortOrder": 0,
               "description": "",
               "isSelected": true,
